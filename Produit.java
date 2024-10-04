@@ -5,6 +5,7 @@ public class Produit
     protected double prixAchat;
     protected double prixVente;
 
+//Constructeur de la classe Produit
     public Produit(String id, String nom, double prixAchat, double prixVente)
     {
         this.id = id;
